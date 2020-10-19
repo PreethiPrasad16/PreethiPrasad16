@@ -1,5 +1,5 @@
 ### Hi there 👋, Preethi Prasad here....
-
+<img src="https://github.com/victoria-lo/victoria-lo/blob/master/myGif.gif" alt="Here is a little bit about me!">
 <!--
 **PreethiPrasad16/PreethiPrasad16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
