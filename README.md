@@ -1,6 +1,6 @@
 ### Hi there 👋, Preethi Prasad here....
 
-**PreethiPrasad16/PreethiPrasad16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PreethiPrasad16/PreethiPrasad16 is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 [Preethi's github stats](https://github-readme-stats.vercel.app/api?username=PreethiPrasad16&show_icons=true&count_private=true&hide=issues,prs)
 Here are some ideas to get you started:
