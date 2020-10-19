@@ -1,8 +1,8 @@
 ### Hi there 👋, Preethi Prasad here....
-<img src="https://github.com/victoria-lo/victoria-lo/blob/master/myGif.gif" alt="Here is a little bit about me!">
-<!--
+
 **PreethiPrasad16/PreethiPrasad16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+[Preethi's github stats](https://github-readme-stats.vercel.app/api?username=PreethiPrasad16&show_icons=true&count_private=true&hide=issues,prs)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
